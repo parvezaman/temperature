@@ -1,4 +1,3 @@
-// const API_KEY =`b39dc387d93a200d9ccdb0f17964b6e2`;
 const cityNameInput = document.getElementById('city-name');
 
 const searchTemperature = () =>{
